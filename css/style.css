@@ -1,0 +1,25 @@
+body{
+    background: rgb(241, 208, 208);
+    margin-left: 150px;
+    margin-right: 150px;
+}
+header{
+    margin-top: 100px;
+}
+h1{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    text-align: justify;
+    font-size: 18px;
+}
+img{
+    margin-bottom: 20px;
+}
+section#contato img{
+    margin-bottom: 0px;
+}
