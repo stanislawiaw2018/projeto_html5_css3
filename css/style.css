@@ -22,4 +22,9 @@ img{
 }
 section#contato img{
     margin-bottom: 0px;
+    width: 30px;
+}
+
+footer{
+    margin-bottom: 30px;
 }
